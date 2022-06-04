@@ -34,7 +34,7 @@ The tokopedia dataset that are used have 5281 rows with sentiment distribution a
 
 Some steps are applied towards the text data before being fed into the model:
 
-1. Colloquial lexicon words mapping to original word
+1. Mapping colloquial words to their original meaning with [colloquial-indonesian-lexicon](https://raw.githubusercontent.com/nasalsabila/kamus-alay/master/colloquial-indonesian-lexicon.csv) dataset
 2. Text cleaning process:
     - converte all the characters to lower case
     - remove URLs

@@ -77,6 +77,6 @@ After 5 different trials, the results are as follows:
 | Metrics | Tokopedia | Shopee | Lazada |
 | --- | --- | --- | --- |
 | Accuracy | 0.618 ± 0.0044 | 0.732 ± 0.0045 | 0.662 ± 0.0044 |
-| Precision (Weigted Avg) | 0.606 ± 0.0114 | 0.722 ± 0.0083 | 0.666 ± 0.0054 |
-| Recall (Weigted Avg) | 0.618 ± 0.0044 | 0.732 ± 0.0045 | 0.662 ± 0.0044 |
-| F1-Score (Weigted Avg) | 0.588 ± 0.0083 | 0.722 ± 0.0045 | 0.65 ± 0.0071 |
+| Precision (Weighted Avg) | 0.606 ± 0.0114 | 0.722 ± 0.0083 | 0.666 ± 0.0054 |
+| Recall (Weighted Avg) | 0.618 ± 0.0044 | 0.732 ± 0.0045 | 0.662 ± 0.0044 |
+| F1-Score (Weighted Avg) | 0.588 ± 0.0083 | 0.722 ± 0.0045 | 0.65 ± 0.0071 |

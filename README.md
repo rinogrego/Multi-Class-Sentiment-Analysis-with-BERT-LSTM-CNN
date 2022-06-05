@@ -15,17 +15,17 @@ The data consists of 3 different datasets representing each e-commerce giant (To
 
 ### Tokopedia
 
-The tokopedia dataset that are used have 4361 rows with sentiment distribution as shown in the picture:
+The tokopedia dataset that are used have 4360 rows with sentiment distribution as shown in the picture:
 ![Tokopedia Distribution](/images/Tokopedia_Distribution.png)
 
 ### Shopee
 
-The tokopedia dataset that are used have 4998 rows with sentiment distribution as shown in the picture:
+The tokopedia dataset that are used have 4991 rows with sentiment distribution as shown in the picture:
 ![Shopee Distribution](/images/Shopee_Distribution.png)
 
 ### Lazada
 
-The tokopedia dataset that are used have 5281 rows with sentiment distribution as shown in the picture:
+The tokopedia dataset that are used have 5280 rows with sentiment distribution as shown in the picture:
 ![Lazada Distribution](/images/Lazada_Distribution.png)
 
 *NOTE: All 3 datasets suffer imbalance problem but for this project we didn't deal with them*
